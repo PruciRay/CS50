@@ -1,1 +1,1 @@
-# CS50
+git rm --cached -r CS50
